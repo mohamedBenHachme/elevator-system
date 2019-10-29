@@ -1,5 +1,9 @@
 package echalenge.elevator;
 
+import echalenge.elevator.states.ElevatorDown;
+import echalenge.elevator.states.ElevatorRest;
+import echalenge.elevator.states.ElevatorState;
+import echalenge.elevator.states.ElevatorUp;
 import lombok.Getter;
 import lombok.Setter;
 
